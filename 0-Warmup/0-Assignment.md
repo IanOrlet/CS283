@@ -35,11 +35,10 @@ Please provide answers to these questions using markdown notation and place them
 
 
 3. Please provide a link to the repository you are using for this class.
-\nhttps://github.com/IanOrlet/CS283
+https://github.com/IanOrlet/CS283
 
 5. Briefly describe what you want to get out of this class.
-\n   i want to understand unix more.
+i want to understand unix more.
 
 7. Briefly describe any concerns you might be having with being successful in this class (if any).
-\n
-   i am terrible with using git and github
+i am terrible with using git and github
