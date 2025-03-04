@@ -185,7 +185,7 @@ int exec_local_cmd_loop()
             temp++;
         }
 			char *saveptr;
-			char *token = strtok_r(line, "\"", &saveptr);  // Split on space instead of quotes
+			char *token = strtok_r(line, "\"", &saveptr); 
 			if (!token) {
             return ERR_CMD_OR_ARGS_TOO_BIG;
          }
